@@ -1,0 +1,14 @@
+F:\FCAI\assginments\supermarketproject\supermarketproject\bin\Debug\supermarketproject.exe.config
+F:\FCAI\assginments\supermarketproject\supermarketproject\bin\Debug\supermarketproject.exe
+F:\FCAI\assginments\supermarketproject\supermarketproject\bin\Debug\supermarketproject.pdb
+F:\FCAI\assginments\supermarketproject\supermarketproject\obj\Debug\supermarketproject.csproj.AssemblyReference.cache
+F:\FCAI\assginments\supermarketproject\supermarketproject\obj\Debug\supermarketproject.csproj.SuggestedBindingRedirects.cache
+F:\FCAI\assginments\supermarketproject\supermarketproject\obj\Debug\supermarketproject.Form1.resources
+F:\FCAI\assginments\supermarketproject\supermarketproject\obj\Debug\supermarketproject.Properties.Resources.resources
+F:\FCAI\assginments\supermarketproject\supermarketproject\obj\Debug\supermarketproject.csproj.GenerateResource.cache
+F:\FCAI\assginments\supermarketproject\supermarketproject\obj\Debug\supermarketproject.csproj.CoreCompileInputs.cache
+F:\FCAI\assginments\supermarketproject\supermarketproject\obj\Debug\supermarketproject.exe
+F:\FCAI\assginments\supermarketproject\supermarketproject\obj\Debug\supermarketproject.pdb
+F:\FCAI\assginments\supermarketproject\supermarketproject\obj\Debug\supermarketproject.Form2.resources
+F:\FCAI\assginments\supermarketproject\supermarketproject\obj\Debug\supermarketproject.Form3.resources
+F:\FCAI\assginments\supermarketproject\supermarketproject\obj\Debug\supermarketproject.Form4.resources
